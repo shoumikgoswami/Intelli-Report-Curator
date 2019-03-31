@@ -1,0 +1,44 @@
+OrderDate,Region,Rep,Item,Units,Unit Price,Total Price
+04-Jul-14,East,Richard,Pen Set,62,4.99,309.38
+12-Jul-14,East,Nick,Binder,29,1.99,57.71
+21-Jul-14,Central,Morgan,Pen Set,55,12.49,686.95
+29-Jul-14,East,Susan,Binder,81,19.99,1619.19
+07-Aug-14,Central,Matthew,Pen Set,42,23.95,1005.9
+15-Aug-14,East,Richard,Pencil,35,4.99,174.65
+24-Aug-14,West,James,Desk,3,275,825
+01-Sep-14,Central,Smith,Desk,2,125,250
+10-Sep-14,Central,Bill,Pencil,7,1.29,9.03
+18-Sep-14,East,Richard,Pen Set,16,15.99,255.84
+27-Sep-14,West,James,Pen,76,1.99,151.24
+05-Oct-14,Central,Morgan,Binder,28,8.99,251.72
+14-Oct-14,West,Thomas,Binder,57,19.99,1139.43
+22-Oct-14,East,Richard,Pen,64,8.99,575.36
+31-Oct-14,Central,Rachel,Pencil,14,1.29,18.06
+08-Nov-14,East,Susan,Pen,15,19.99,299.85
+17-Nov-14,Central,Alex,Binder,11,4.99,54.89
+25-Nov-14,Central,Matthew,Pen Set,96,4.99,479.04
+04-Dec-14,Central,Alex,Binder,94,19.99,1879.06
+12-Dec-14,Central,Smith,Pencil,67,1.29,86.43
+21-Dec-14,Central,Rachel,Binder,28,4.99,139.72
+29-Dec-14,East,Susan,Pen Set,74,15.99,1183.26
+06-Jan-15,East,Richard,Pencil,95,1.99,189.05
+15-Jan-15,Central,Bill,Binder,46,8.99,413.54
+23-Jan-15,Central,Matthew,Binder,50,19.99,999.5
+01-Feb-15,Central,Smith,Binder,87,15,1305
+09-Feb-15,Central,Alex,Pencil,36,4.99,179.64
+18-Feb-15,East,Richard,Binder,4,4.99,19.96
+26-Feb-15,Central,Bill,Pen,27,19.99,539.73
+07-Mar-15,West,James,Binder,7,19.99,139.93
+15-Mar-15,West,James,Pencil,56,2.99,167.44
+24-Mar-15,Central,Alex,Pen Set,50,4.99,249.5
+01-Apr-15,East,Richard,Binder,60,4.99,299.4
+10-Apr-15,Central,Rachel,Pencil,66,1.99,131.34
+18-Apr-15,Central,Rachel,Pencil,75,1.99,149.25
+27-Apr-15,East,Nick,Pen,96,4.99,479.04
+05-May-15,Central,Alex,Pencil,90,4.99,449.1
+14-May-15,Central,Bill,Pencil,53,1.29,68.37
+22-May-15,West,Thomas,Pencil,32,1.99,63.68
+31-May-15,Central,Bill,Binder,80,8.99,719.2
+08-Jun-15,East,Richard,Binder,60,8.99,539.4
+17-Jun-15,Central,Matthew,Desk,5,125,625
+25-Jun-15,Central,Morgan,Pencil,90,4.99,449.1

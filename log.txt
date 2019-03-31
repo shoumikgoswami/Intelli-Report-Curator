@@ -1,0 +1,237 @@
+upload data	|	upload data
+hi	|	error
+describe data	|	describe data
+describe data	|	describe data
+explore the data	|	data exploration
+show me top 5 rows	|	head
+build model	|	build model
+logistic regression	|	error
+logistic regression model	|	build model
+thank you	|	true
+thank you	|	true
+thank you	|	true
+upload data	|	upload data
+describe data	|	describe data
+visualize	|	visualize
+upload data	|	upload data
+visualize	|	visualize
+upload data	|	upload data
+visualize	|	visualize
+upload data	|	upload data
+visualize	|	visualize
+upload data	|	upload data
+visualiz	|	visualize
+upload data	|	upload data
+visualize	|	visualize
+upload data	|	upload data
+visualize	|	visualize
+clean data	|	clean data
+build decision tree model	|	build model
+thank you	|	true
+thank you	|	true
+bleh	|	error
+upload data	|	error
+upload data	|	error
+can you upload daa	|	upload data
+describe the dataset	|	describe data
+can you plot a line graph	|	visualize
+can you create overlaid histogram	|	visualize
+can you create overlaid histogram plot	|	visualize
+can you generate overlaid histogram 	|	visualize
+upload data	|	upload data
+can you generate overlaid histogram	|	visualize
+thankyou	|	error
+thank you	|	true
+upload data	|	error
+upload data	|	upload_data
+upload data	|	upload_data
+upload data	|	upload_data
+describe the data	|	describe_data
+clean the data	|	clean_data
+visualize	|	visualize
+yes	|	error
+create pair plot	|	visualize
+no	|	error
+create line graph	|	visualize
+create line graph	|	visualize
+upload data	|	upload_data
+create a line plot	|	visualize
+create a histogram	|	visualize
+create histogram	|	visualize
+upload data	|	upload_data
+no	|	error
+upload data	|	upload_data
+upload data	|	upload_data
+describe the data	|	describe_data
+create a line graph	|	visualize
+clean the data	|	clean_data
+clean the data	|	clean_data
+hello	|	error
+upload data	|	error
+upload data	|	error
+hello	|	error
+hello	|	error
+upload data	|	upload_data
+upload data	|	upload_data
+describe the data	|	describe_data
+hello	|	error
+build a line plot	|	visualize
+upload data	|	upload_data
+hello	|	error
+create a line plot	|	visualize
+upload data	|	upload_data
+hello	|	error
+create line plot	|	visualize
+hello	|	error
+upload data	|	upload_data
+hello	|	error
+upload data	|	upload_data
+upload data	|	upload_data
+describe the data	|	describe_data
+hello	|	error
+build line plot	|	visualize
+line plot	|	visualize
+line plot	|	visualize
+hello	|	error
+create line plot	|	visualize
+create line plot	|	visualize
+clean data	|	clean_data
+clean data	|	clean_data
+build logistic regression model	|	build_model
+build logistic regression model	|	build_model
+hello	|	error
+build logistic regression model	|	build_model
+upload data	|	upload_data
+build logistic regression model	|	build_model
+create a histogram	|	visualize
+create histogram	|	visualize
+upload data	|	upload_data
+create histogram	|	visualize
+clean the data	|	clean_data
+clean the data	|	clean_data
+clean data	|	clean_data
+build decision tree model	|	build_model
+upload data	|	upload_data
+can you add it to report	|	add_pdf
+upload data	|	upload_data
+add it to report	|	add_pdf
+upload data	|	upload_data
+describe data	|	describe_data
+add it to report	|	add_pdf
+upload data	|	upload_data
+add it to pdf	|	add_pdf
+download pdf	|	create_pdf
+download the report	|	create_pdf
+upload data	|	upload_data
+add it to report	|	add_pdf
+download report	|	create_pdf
+download pdf	|	create_pdf
+upload data	|	upload_data
+add to report	|	add_pdf
+download report	|	create_pdf
+upload data	|	upload_data
+create distribution plot	|	visualize
+upload data	|	upload_data
+create distribution plot	|	visualize
+upload data	|	upload_data
+create distribution plot	|	visualize
+upload data	|	upload_data
+create distribution plot	|	visualize
+upload data	|	upload_data
+create distribution plot	|	visualize
+upload data	|	upload_data
+download report	|	create_pdf
+download report	|	create_pdf
+no	|	error
+download report	|	create_pdf
+download report	|	create_pdf
+upload data	|	upload_data
+create distribution plot	|	visualize
+bar plot	|	visualize
+bar plot	|	visualize
+no	|	error
+create bar plot	|	visualize
+create bar graph	|	visualize
+download report	|	create_pdf
+download report	|	create_pdf
+upload data	|	upload_data
+which sales rep sold the most by units	|	error
+which rep sold the most by units	|	error
+data exploration	|	upload_data
+upload data	|	upload_data
+explore the data	|	data_exploration
+which rep sold the most by units	|	error
+upload data	|	upload_data
+help me explore the data	|	data_exploration
+show the top 5 rows	|	head
+who sold the most by units	|	max_sales_units
+upload data	|	upload_data
+explore the data	|	data_exploration
+show me top 5 rows	|	head
+who sold the most by units	|	max_sales_units
+which region sold the most by price	|	data_exploration
+which region sold the most by total price	|	max_sales_price
+who sold the most by price	|	data_exploration
+who sold the most by total price	|	max_sales_price
+create line plot	|	visualize
+download report	|	create_pdf
+download report	|	create_pdf
+download report	|	create_pdf
+upload data	|	upload_data
+explore the data	|	data_exploration
+who sold the most by units	|	max_sales_units
+who sold the most by total price	|	max_sales_price
+show me the sales performance of james	|	data_exploration
+show me the sales data for james	|	sales_data
+show me the sales data for james	|	sales_data
+show me the sales data	|	data_exploration
+show me the sales data for richard	|	sales_data
+upload data	|	upload_data
+who sold the most by units	|	max_sales_units
+who sold the most by units	|	max_sales_units
+explore the data	|	data_exploration
+who sold the most by units	|	max_sales_units
+show me the sales data	|	sales_data
+upload data	|	upload_data
+explore the data	|	data_exploration
+who sold the most by units	|	max_sales_units
+who sold the most by price	|	data_exploration
+who sold the most by total price	|	max_sales_price
+who sold the most by total price	|	max_sales_price
+who sold the most by total price	|	max_sales_price
+show me the sales data	|	sales_data
+no	|	error
+explore the data	|	data_exploration
+explore data	|	data_exploration
+show me the sales data	|	sales_data
+create a bar plot	|	visualize
+download report	|	create_pdf
+generate report	|	create_pdf
+upload data	|	upload_data
+describe the data	|	describe_data
+explore the data	|	data_exploration
+show me the top 5 rows	|	head
+who sold the most by total price	|	max_sales_price
+who sold the most by units	|	max_sales_units
+create bar plot	|	visualize
+download the report	|	create_pdf
+download report	|	create_pdf
+download report	|	create_pdf
+explore the data	|	data_exploration
+who sold the most by units	|	max_sales_units
+upload data	|	upload_data
+explore the data	|	data_exploration
+show me the top 5 rows	|	head
+who sold the most by units	|	max_sales_units
+who sold the most by total price	|	max_sales_price
+show me the sales data	|	sales_data
+upload data	|	upload_data
+explore the data	|	data_exploration
+show me the top 5 rows	|	head
+who made the most sales by units	|	max_sales_units
+who made the most sales by total price	|	max_sales_price
+show me the sales data	|	sales_data
+create a bar plot	|	visualize
+download the report	|	create_pdf
+download the report	|	create_pdf
+download the report	|	create_pdf
